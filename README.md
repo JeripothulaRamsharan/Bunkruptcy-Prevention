@@ -22,6 +22,6 @@ The dataset is split into training and testing sets using train_test_split().
 # Model Evaluation:
 Models are evaluated using performance metrics like accuracy, precision, recall, and confusion matrix.
 
-# Insights & Conclusion:
+Insights & Conclusion:
 The best-performing model is identified based on evaluation metrics.
 The impact of different risk factors (e.g., industrial risk, management risk) on bankruptcy prediction is analyzed.
